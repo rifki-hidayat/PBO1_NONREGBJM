@@ -6,6 +6,7 @@ public class DataDiri {
         System.out.println("Muhammad Rifki Hidayat");
         System.out.println("2110010080");
         System.out.println("4B Nonreg BJM");
+        System.out.println ("Belajar push project")
     }
             
     
